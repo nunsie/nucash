@@ -7,7 +7,7 @@ NuCash is personal and small business double entry accounting application - insp
 ## Features
 
 - Runs on your local computer, keeping your financial data private and under your control.
-- Sync transaction data with you bank directly via PSD2 integration. (coming soon)
+- Sync transaction data with your bank directly via PSD2 integration. (coming soon)
 - Sync trading data from over 100 bitcoin and crypto exchanges. (coming soon)
 - Import bank statements in a variety of formats including: CSV, QIF, OFX/QFX, MT940, MT942 & DTAUS. (coming soon)
 - Easily migrate your existing data from GnuCash. (coming soon)
@@ -23,7 +23,9 @@ NuCash is personal and small business double entry accounting application - insp
 
 ## Motivation
 
-I started this project out of a new found interest in my personal finances. I could not find any free simple, easy to use, offline storage with online transaction syncing accounting software. Most of the options out there cost way too much, try to do more than I really care for and aren't really user friendly.
+I started this project out of a new found interest in my personal finances.
+
+I could not find any free, simple, easy to use, offline storage with online transaction syncing accounting software. Most of the options out there cost way too much, try to do more than I really care for and aren't really user friendly.
 
 GnuCash came really close, but I quickly ran into a few issues:
 
