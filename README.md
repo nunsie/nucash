@@ -1,8 +1,10 @@
-# NuCash
+# NuCash 💸
 
 ## Overview
 
 NuCash is personal and small business double entry accounting application - inspired by GnuCash.
+
+![krab money](https://media.tenor.com/gDzS_fULerYAAAAC/daireb.gif)
 
 ## Features
 
