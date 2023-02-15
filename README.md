@@ -4,8 +4,6 @@
 
 NuCash is personal and small business double entry accounting application - inspired by GnuCash.
 
----
-
 ## Features
 
 - Runs on your local computer, keeping your financial data private and under your control.
@@ -17,15 +15,11 @@ NuCash is personal and small business double entry accounting application - insp
 - Quote feeds for stocks, bonds, ETFs, currencies, crypto, etc. (coming soon)
 - Refreshingly simple and friendly user interface.
 
----
-
 ## Downloads
 
 - Mac: (coming soon)
 - Windows: (coming soon)
 - Linux: (coming soon)
-
----
 
 ## Motivation
 
@@ -43,8 +37,6 @@ GnuCash came really close, but I quickly ran into a few issues:
 I don't hate it, I just think it could be better.
 
 Additionally, I've been meaning to learn Rust for a long time now and I thought this would be the perfect way to scratch that itch and take the plunge.
-
----
 
 ## Development
 
