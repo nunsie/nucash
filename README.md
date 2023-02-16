@@ -8,14 +8,16 @@ NuCash is personal and small business double entry accounting application - insp
 
 ## Features
 
-- Runs on your local computer, keeping your financial data private and under your control.
-- Sync transaction data with your bank directly via PSD2 integration. (coming soon)
-- Sync trading data from over 100 bitcoin and crypto exchanges. (coming soon)
-- Import bank statements in a variety of formats including: CSV, QIF, OFX/QFX, MT940, MT942 & DTAUS. (coming soon)
-- Easily migrate your existing data from GnuCash. (coming soon)
-- Compatible with PTA (plain text accounting) software files like ledger-cli, hledger & beancount. (coming soon)
-- Quote feeds for stocks, bonds, ETFs, currencies, crypto, etc. (coming soon)
-- Refreshingly simple and friendly user interface.
+| Description                                                                                        | Status  |
+| -------------------------------------------------------------------------------------------------- | ------- |
+| Runs on your local computer, keeping your financial data private and under your control.           | WIP     |
+| Refreshingly simple and friendly user interface.                                                   | WIP     |
+| Sync transaction data with your bank directly via PSD2 integration.                                | Planned |
+| Sync trading data from over 100 bitcoin and crypto exchanges.                                      | Planned |
+| Import bank statements in a variety of formats including: CSV, QIF, OFX/QFX, MT940, MT942 & DTAUS. | Planned |
+| Easily migrate your existing data from GnuCash.                                                    | Planned |
+| Compatible with PTA (plain text accounting) software files like ledger-cli, hledger & beancount.   | Planned |
+| Quote feeds for stocks, bonds, ETFs, currencies, crypto, etc.                                      | Planned |
 
 ## Downloads
 
